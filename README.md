@@ -1,0 +1,2 @@
+# ahuai
+ahuai.wiki
