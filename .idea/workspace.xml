@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c382dcc7-40ec-4a51-9fc5-27b8dddcfd5f" name="Default Changelist" comment="desc修改" />
+    <list default="true" id="c382dcc7-40ec-4a51-9fc5-27b8dddcfd5f" name="Default Changelist" comment="desc修改">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +76,7 @@
       <workItem from="1628409762707" duration="240000" />
       <workItem from="1628410417050" duration="2893000" />
       <workItem from="1628425953245" duration="17000" />
-      <workItem from="1628426014817" duration="2578000" />
+      <workItem from="1628426014817" duration="3114000" />
     </task>
     <task id="LOCAL-00001" summary="路由问题修复">
       <created>1628402745796</created>
